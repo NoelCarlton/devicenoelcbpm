@@ -1,0 +1,5 @@
+instance/
+vdevice/
+__pycache__
+web/setting/__pycache__
+web/__pycache__
